@@ -1,0 +1,7 @@
+{
+  "prompt": "A candid, realistic photograph of the interior of a massive, multi-story brutalist library atrium. Natural light from a large skylight. The structure consists of multiple stacked circular floor plates. On every single floor, rows of wooden bookshelves follow a strict, visible slope descending from left to right, creating a clear local trend on each level. Simultaneously, the entire global stack of these floors is arranged in a grand, dramatic upward curve, meaning the overall, 'total' structure ascends from left to right. The contradiction is seamless and physically inevitable. Fine detail, 8k, photorealistic.",
+  "model": "DALL-E 3",
+  "paradox": "simpson's paradox",
+  "visual_logic": "Viewers see a stacked library where *every* floor has bookshelves that slant downward from left to right. Simultaneously, the *global* organization of these floors creates an overarching structure that dramatically ascends from left to right, reversing the local trend.",
+  "publish_email": true
+}
